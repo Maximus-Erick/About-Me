@@ -6,7 +6,7 @@
 - 📫 How to reach me: [@_SmartTweet](https://twitter.com/_SmartTweet)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maximus-Erick)](https://github.com/Maximus-Erick/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximus-Erick)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Maximus-Erick/Maximus-Erick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
