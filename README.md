@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with [Machine Learning](https://github.com/Maximus-Erick/Machine-Learning)
 - 📫 How to reach me: [@_SmartTweet](https://twitter.com/_SmartTweet)
 
 
